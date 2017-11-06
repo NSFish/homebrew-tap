@@ -2,7 +2,7 @@ class Nsflocalizer < Formula
   desc ".strings文件和Excel语言包之间的双向同步工具"
   homepage "https://github.com/NSFish/NSFLocalizationSynchronizer"
   url "https://github.com/NSFish/NSFLocalizationSynchronizer/releases/download/1.0/nsflocalizer"
-  sha256 "e4e655a11c9aaa8e7abb44ea5ff6cec046c6197b9051f43296524419e6549235"
+  sha256 "845bb7663c659c6c865e8be3289b90b1e9033bd171a504bfa166942d775f22fe"
 
   def install
     bin.install "nsflocalizer"
