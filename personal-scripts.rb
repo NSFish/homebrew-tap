@@ -4,6 +4,6 @@ class PersonalScripts < Formula
   head 'https://github.com/NSFish/PersonalScripts.git'
 
   def install
-    bin.install "ramdisk"
+    bin.install "ramdisk.sh"
   end
 end
