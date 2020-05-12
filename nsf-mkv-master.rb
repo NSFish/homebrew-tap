@@ -1,4 +1,4 @@
-class BangumiRenamer < Formula
+class NsfMkvMaster < Formula
     desc "Wrapping mkvtoolnix for easier use"
     homepage "https://github.com/NSFish/nsf-mkv-master"
     url "https://github.com/NSFish/nsf-mkv-master/releases/download/1.0/nsf-mkv-master"
