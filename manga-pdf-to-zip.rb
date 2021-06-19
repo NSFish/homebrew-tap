@@ -1,4 +1,4 @@
-class MangaPdfToZip, < Formula
+class MangaPdfToZip < Formula
     desc "extract images from pdf and then zip them up."
     homepage "https://github.com/NSFish/MangaPDF2Zip"
     url "https://github.com/NSFish/MangaPDF2Zip/releases/download/1.0/MangaPDF2Zip"
