@@ -1,4 +1,4 @@
-cask "XiaomiCloud" do
+cask "xiaomicloud" do
     version "1.2.6"
     desc "小米云服务 for mac"
     homepage "https://i.mi.com/static2?filename=MicloudWebStatic/res/home/mi-lab.htm&locale=zh_CN"
