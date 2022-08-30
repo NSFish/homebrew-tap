@@ -1,8 +1,8 @@
 cask "istat-menus-local" do
     version "6.62"
-    sha256 "8276439d8eeaeaa67e620c0d089a7e1df17942314a4e4439ba0f6933d52a651c"
+    sha256 "a90bd64818467203bdc16494d152ba3d6f15144d937af9edc4abf3fd93d40d11"
 
-    url "file:///Volumes/%E6%B5%B7%E8%B1%9A/%E5%A4%87%E4%BB%BD/%E5%AE%89%E8%A3%85%E5%8C%85/iStat_Menus_6.62.1191__DeadlyBugs_.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/iStat_Menus_6_62_1197_DeadlyBugs.dmg"
     name "iStat Menus"
     homepage "https://github.com/NSFish/Piracy"
 

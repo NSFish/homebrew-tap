@@ -1,8 +1,8 @@
 cask "soundsource-local" do
-    version "5.3.10"
-    sha256 "47fdeb4bb7396283d41de74c16936217366eca4cb8aa69fa20567c2b70995d10"
+    version "5.5.4"
+    sha256 "53fea76ca8f54626f5051e9880b86039b9249b244feb7e34855b88018578f9e7"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/SoundSource.v5.3.10.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/SoundSource_5_5_4_HCiSO.dmg"
     name "SoundSource"
     homepage "https://github.com/NSFish/Piracy"
 

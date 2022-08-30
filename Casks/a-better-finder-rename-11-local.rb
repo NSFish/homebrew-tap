@@ -1,11 +1,11 @@
 cask "a-better-finder-rename-11-local" do
-    version "11.48"
-    sha256 "bcabeddf40ceef5231f642d6cffafd941c4d2bee49d9b39920fb10625fee2488"
+    version "11.51"
+    sha256 "2277f93a6a8a5ecf2962e12acd1539e439136d041e1ca527f500b930145032b2"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/A_Better_Finder_Rename_11_11_48_TNT.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/A_Better_Finder_Rename_11_11_51_TNT.dmg"
     name "A Better Finder Rename 11"
     homepage "https://github.com/NSFish/Piracy"
 
-    container nested: "Manual install/A Better Finder Rename 11 11.48 [TNT].dmg"
+    container nested: "Manual install/A Better Finder Rename 11 11.51 [TNT].dmg"
     app "A Better Finder Rename 11.app"
 end

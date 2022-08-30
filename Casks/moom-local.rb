@@ -1,11 +1,10 @@
 cask "moom-local" do
-    version "3.2.24"
-    sha256 "08efda33f1b437ac917398afa063205c703d3e709c26f88a67dbb56437b365cd"
+    version "3.2.25"
+    sha256 "d017ad8a98b08e6304f406802fb6c64308060d187742a4e6a09115464becff0b"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/Moom_3_2_24_TNT.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/Moom_3_2_25_HCiSO.dmg"
     name "Moom"
     homepage "https://github.com/NSFish/Piracy"
 
-    container nested: "Manual install/Moom 3.2.24 [TNT].dmg"
     app "Moom.app"
 end

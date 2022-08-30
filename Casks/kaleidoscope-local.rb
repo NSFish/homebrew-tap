@@ -1,11 +1,10 @@
 cask "kaleidoscope-local" do
-    version "3.4.2"
-    sha256 "bc59182a9203d6645cd6aa76ca4cac3d8fd7a37a594f3cb2e0c4a53d7a065ddc"
+    version "3.6.1"
+    sha256 "0159f0ba994705e444a26e5a09aad38dac9140d8323140cb409acf99a0511b4b"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/Kaleidoscope_3_4_2_TNT.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/Kaleidoscope_3_6_1_HCiSO.dmg"
     name "Kaleidoscope"
     homepage "https://github.com/NSFish/Piracy"
 
-    container nested: "Manual install/Kaleidoscope 3.4.2 [TNT].dmg"
     app "Kaleidoscope.app"
 end

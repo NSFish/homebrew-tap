@@ -1,10 +1,11 @@
 cask "alfred-local" do
-    version "4.6.5"
-    sha256 "1ec3a840c880224d1b56a206fe0e245ac9bebe58abfb09904b83d114192e042b"
+    version "5.0.1"
+    sha256 "b2251651f7f3aa891fa86f52f0836848c74437463494cb9f91688fc62a1a24e6"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/Alfred_PowerPack_4_6_5_1299__HCiSO.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/Alfred_5_0_1_TNT.dmg"
     name "Alfred"
     homepage "https://github.com/NSFish/Piracy"
 
-    app "Alfred 4.app"
+    container nested: "Manual install/Alfred 5.0.1 [TNT].dmg"
+    app "Alfred 5.app"
 end

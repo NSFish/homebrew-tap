@@ -1,11 +1,11 @@
 cask "typora-local" do
-    version "1.2.4"
-    sha256 "3b14748f9477a8bbdca079ed8e695417c28ae3d203fbffc06631919e0d02f6ad"
+    version "1.3.7"
+    sha256 "e1eaa00d613c8cfc1f935a645fd9bb08f257855c9f9bc92631366bbedfc062a8"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/Typora_1_2_4_TNT.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/Typora_1_3_7_TNT.dmg"
     name "Typora"
     homepage "https://github.com/NSFish/Piracy"
 
-    container nested: "Manual install/Typora 1.2.4 [TNT].dmg"
+    container nested: "Manual install/Typora 1.3.7 [TNT].dmg"
     app "Typora.app"
 end

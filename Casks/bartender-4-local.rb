@@ -1,8 +1,8 @@
 cask "bartender-4-local" do
-    version "4.1.50"
-    sha256 "addc41d00641fff94cd17484954f2e555adf0ce88ed3edb5cf034bb5b7e4e3f5"
+    version "4.2.0"
+    sha256 "b92140e5f34496188e618a1f1e1866f523dc9cc45e4d50e633ac0d0d122b6a25"
 
-    url "file:///Volumes/%E7%BA%A2/%E5%A4%87%E4%BB%BD/macOS/Bartender_4_1_50_HCiSO.dmg"
+    url "file:///Users/nsfish/Library/Mobile%20Documents/com~apple~CloudDocs/%E5%AE%89%E8%A3%85%E5%8C%85/macOS/Bartender_4_2_0_HCiSO.dmg"
     name "Bartender 4"
     homepage "https://github.com/NSFish/Piracy"
 
